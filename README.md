@@ -1,10 +1,6 @@
 # Discord Member Booster 🪐
 The best member booster for discord, super easy to use and effective! What are you waiting for to increase your servers? Here I leave you a video preview and the functions it has.
 
-## 📹 Preview
-
-https://github.com/H4cK3dR4Du/Spotify-Account-Generator/assets/118562174/c9ba8753-ee6a-4fb4-86e7-5cd5e70f39ab
-
 ## 🔥 Features
 - Fully Requests Based Generator
 - Works With Paid Or Free Proxies
@@ -28,7 +24,3 @@ https://github.com/H4cK3dR4Du/Spotify-Account-Generator/assets/118562174/c9ba875
 ## ⚠️ DISCLAIMER
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
 
-## ✨ Issues / Doubts
-
-- If you have any questions do not hesitate to enter my discord: https://discord.gg/raducord
-- Or if you have any error do not forget to report it in: [issues](https://github.com/H4cK3dR4Du/Discord-Member-Booster/issues/new)

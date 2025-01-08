@@ -1,5 +1,5 @@
 import os, random, string, time, json, sys, ctypes
-from data.solver import Solver
+from solver import Solver
 
 try:
     import requests
